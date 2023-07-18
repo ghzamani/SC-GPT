@@ -1,0 +1,647 @@
+[
+    [
+        " & arabian nights restaurant serves arabian food and a good dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, arabian nights restaurant has a nice arabian food and it is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & arabian nights restaurant serves arabian food and is a good dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & chenery park is located in hayes valley or glen park and address is 6|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chenery park is in hayes valley or glen park and has an address of|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chenery park is in hayes valley or glen park at 683 chen|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & goodbye|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & how about goodbye?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sorry.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i couldn't find a sitter for bayview heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is a no match in bayview heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, it's in bayview heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & eiji is located in mastro, kids are not allowed and you can have |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & eiji is located in mastro and allows no children, and it is a|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & eiji is located in mastro. i am unable to have kids and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & red door cafe is located at 1608 bush street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is located at 1608 bush street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is located at 1608 bush street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & sure, there is a telephone number 4155522469 by the name of c|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chow is their contact number and their telephone number is 4155522469|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, the phone number is 4155522469 and the contact number is chow|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & canteen is an excellent restaurant and the price range is moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & canteen is a moderate priced restaurant|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & canteen's price range is moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & lime tree southeast asian kitchen near inner sunset|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is also lime tree southeast asian kitchen near inner sunset|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & lime tree southeast asian kitchen is a good place that is located in inner sunset |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & beijing restaurant is located at outer mission and the price range is cheap|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & beijing restaurant is a cheap restaurant located near outer mission|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the beijing restaurant is a cheap restaurant near outer mission|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the restaurant spruce is great and has a good dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & spruce is a good restaurant and the dinner one.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what about spruce at dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & piperade serves spanish food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & piperade is a spanish restaurant.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & piperade is a spanish food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & unfortunately, no children are allowed in the opera plaza area|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are no kids allowed in opera plaza.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the area is opera plaza and no one allowed to have kids.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found no location in chinatown or opera plaza.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, chinatown is not in the opera plaza area.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, there's a no match in chinatown, or opera pla|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there is seoul garden in hayes valley or little osaka.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & seoul garden is in hayes valley or little osaka.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & seoul garden is in hayes valley or little osaka.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & yes, kappa japanese restaurant is in lower pacific|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you may also like kappa japanese restaurant. it is in|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & kappa japanese restaurant is located in lower pacific heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the assab eritrean restaurant is a nice restaurant. the|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & assab eritrean restaurant costs between 7 and 11 euro|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & assab eritrean restaurant is available for 7 and 11 euro|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & dosa on fillmore and kiss seafood is expensive and in the lower pacific height|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & dosa on fillmore and kiss seafood are in the expensive price range and are near lower|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is dosa on fillmore and kiss seafood. it is expensive and near the|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & 4 restaurants, good for dinner, near potrero hill and moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i found 4 restaurants with moderate prices. there is a good dinner option in pot|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 4 restaurants which you might like. the good formeal restaurant, near|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & in which area would you like to search?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & in which area?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure. which area do you prefer?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & franciscan crab restaurant has a price between 29 and 44 euro. the phone|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant has a price between 29 and 44 euro. the phone|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant is a good restaurant. the price for this restaurant is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & you have to find a nice restaurant called marnee thai at outer|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marnee thai is a moderate priced place at outer sunset that serves|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marnee thai is a moderate priced restaurant near outer sunset and |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & yes, kids are allowed.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & yes, kids are allowed.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & okay, they do allow kids.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the franciscan crab restaurant is expensive and allows kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant. it's an expensive restaurant that allows kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant is an expensive restaurant and you're allowed to take |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & gracias madre is a good restaurant|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there's a nice restaurant called gracias madre.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & gracias madre is a restaurant in the area.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 2 restaurants, good for brunch.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i see 2 restaurant types. breakfast is good|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, i found 2 restaurants that are good to go out of there. |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & what kind of food?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what is the food you want?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what kind of food are you craving?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & it is a 239 restaurant that will not give you any food, and the food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 239 restaurants, which are good restaurants that don't have |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 239 restaurant options. it's a good restaurant, which|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & what price range do you want?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what price range would you like to check?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & where are you looking for?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & tanuki restaurant is a good restaurant for dinner and its prices are cheap and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & tanuki restaurant is good for dinner and is cheap food and japanes|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & Primarily the tanuki restaurant serves japanese food at |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & chow is located at 215 church street and the phone number is 4155522469|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chow is the contact phone number and address of the restaurant is 215 church street |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chow is the address at 215 church street and phone is 4155522469|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & red door cafe, a good restaurant at a cheap price, is good for|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is a nice cheap restaurant and has a good brunch food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is a cheap restaurant good for brunch|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i find a good restaurant called red door cafe cheap and a good brunch|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is a good cheap restaurant and it serves brunch|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what do you think of the cheap menu at red door cafe and good for brunch|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there's no gluten free and inexpensive food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, there are no gluten free foods available in the cheap price range.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & they do not offer gluten free food or cost a cheap price range.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & do you have any preferences?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & how much would you like to pay?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & do you want your prices to be that high?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the number is 4157770500 and the address is 94103 and the phone number is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & amber india phone number is 4157770500 and it is located in 94103|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & amber india phone 4157770500 and the postcode is 94103|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i recommend a pizza restaurant with a cheap price range and is child-friendly|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & source is a cheap food store that lets you have pizza and allow kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the restaurant source offers cheap food and pizza and it is child-friendly|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & fifth floor isn't safe for kids.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, kids are not allowed at the fifth floor.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it is located at fifth floor. no, children are not allowed.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & singapore malaysian restaurant is in hayes valley or richmond district. you|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & singapore malaysian restaurant is in hayes valley or richmond district and is 4|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & singapore malaysian restaurant is located in hayes valley or richmond district,|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & spruce serves dinner and is near presidio heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & spruce is a good restaurant and it is near presidio heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the restaurant spruce is in the area near presidio heights and is good|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 3 restaurants, one of which is a good dinner in mission bay|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & 3 restaurants in mission bay are good for dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 3 good restaurants in mission bay that serve dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there's a no, there's no|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, they do allow kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & okay, no kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the restaurant is taiwan restaurant which has a good lunch and is near inner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & taiwan restaurant is a good rated lunch in inner richmond.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & taiwan restaurant is a good place for lunch and children are allowed near inner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & fresca is a moderate priced apartment in the pacific heights price range that|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fresca is a moderate priced restaurant in the pacific heights price range and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fresca has a moderate price range for kids and is located near the pacific|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & do you need anything else?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & any thing else i can do for you|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & anything else i can help you with?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & fujiyama ya japanese restaurant serving japanese|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fujiyama ya japanese restaurant serves japanese|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fujiyama ya japanese restaurant serves japanese|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 239 restaurants which are nice. they are not in the's price|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 239 restaurants in that price range, don 't care.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no problem. i searched and found 239 restaurants for you. i recommend|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & angkor borei restaurant serves dinner. it is located in bernal height|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & angkor borei restaurant is a nice dinner restaurant in bernal heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & angkor borei restaurant is a good restaurant for dinner in bernal height|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & kiss seafood is located in lower pacific heights or japantown and their address is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & kiss seafood is a nice restaurant located in lower pacific heights or japantown|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & kiss seafood, located near lower pacific heights or japantown is located at|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the total number of restaurants is 11. the restaurant is near nob hill|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 11 restaurants near nob hill and a restaurant|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i have found 11 restaurants in nob hill, one of which is a restaurant|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & thai time restaurant is a good restaurant for children and is located near inner rich|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is a thai time restaurant near inner richmond|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thai time restaurant, a nice place for kids and is also near inner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no problem. there are 229 restaurants. your kids are okay, however |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 229 restaurants and kids aren't allowed.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 229 restaurants that allow kids, but they do not care|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 2 restaurant you might like. the prices are cheap and the restaurant's|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, 2 good restaurants in little russia don't look cheap and dont|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 2 restaurants and a good form of food is don 't care with |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the area of the apartment is financial district|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it's in financial district|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you would like to be in the financial district area.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & arabian nights restaurant in hayes valley or noma is moderate in cost.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & arabian nights restaurant is moderate in price range and in hayes valley or noma|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & they have a moderate price range in hayes valley or noma for arabian nights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no cafes, in presidio heights?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are no cafes in presidio heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, cafes do not serve that in presidio heights|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & sure, in potrero hill.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i could check the location of potrero hill.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & potrero hill is in the area|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & arabian nights restaurant in hayes valley or noma is located at 2345 mission street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & arabian nights restaurant located in hayes valley or noma and is located at 2345|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & arabian nights restaurant is located in hayes valley or noma and has a phone|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i'm sorry but i can not find breakfast options and shangha|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & shanghainese is not good for breakfast|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are no good breakfast foods for the restaurant and no shanghainese food for|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & bund shanghai restaurant serves shanghainese food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & bund shanghai restaurant is also s paydaye and serving shang|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the bund shanghai restaurant serves shanghainese food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the restaurant, mozzeria, is family friendly and has pizza.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & mozzeria is a nice restaurant and they allow kids in the dining room, they|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & mozzeria is a nice restaurant. they allow children to eat pizza|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & chez maman serves burgers or creperies, located at 1453 18th|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chez maman serves burgers or creperies and is located at 1453 18th|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chez maman serves burgers or creperies and is located at 1453 18th|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 239 restaurants which are not really restaurants.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no problem! you've 239 restaurants in your area and it's|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 239 restaurants in the don 't care area that serve food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & unfortunately the price range of a luxury apartment is expensive, and is in bern|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it is expensive and the area is in bernal heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the area is in the expensive price range of bernal heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i have 6 restaurant types for you. there are korean food,|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i have 6 restaurants that serve korean food and yes they do allow kids |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & yes, 6 restaurants serve korean food and there are a couple.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & which city are you in the vicinity of?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & are you near?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what location are you in?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no, i'm sorry, there's no food or anything|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i was told that you cannot have kids or eat french food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no food french. kids are okay.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 17 restaurants in the area with a fusion of french food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & 17 restaurants. they serve french food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 17 restaurants that serve french food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & are there any good restaurants to request for?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what do you think of the good formal restaurant?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what is your favorite food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & mozzeria is a moderate priced restaurant at 3228 16th street and their phone number|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & mozzeria is a moderate priced restaurant at 3228 16th street and the phone number|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & mozzeria is in a moderate price range, and the address is 3228 16|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & cafes in russian hill are not available.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & unfortunately, cafes are not suitable near russian hill.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, cafes are not available at russian hill.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & au delices restaurant serves vietnamese food and is located near russia|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & au delices restaurant serves vietnamese food in russian hill |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & les delices restaurant is a vietnamese restaurant near russian|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & house of nanking is good for lunch and children are not allowed.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & house of nanking is a great lunch restaurant and no, the kids are|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & house of nanking serves lunch, and is not allowed with children.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & 89 restaurants and it is a good dinner and kids are allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 89 good restaurant with a good dinner for kids and a good one|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & 89 of these restaurants offer a good dinner and is kid-friendly|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & sanjalisco has a good breakfast and mexican food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sanjalisco serves mexican food and offers breakfast. the children|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sanjalisco is a nice breakfast place and there is some mexi|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & enjoy vegetarian restaurant serves chinese food at chinatown and the food is good for dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!",
+        " & enjoy vegetarian restaurant serves chinese food and it is near chinatown and is good for|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & enjoy vegetarian restaurant is a good restaurant near chinatown and serves chinese food |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & thep phanom thai restaurant is located at 400 waller street and its|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thep phanom thai restaurant is located at 400 waller street.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thep phanom thai restaurant is located at 400 waller street and you|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no, it's an expensive apartment in chinatown.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, this is in chinatown, it is a expensive property.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & unfortunately i could not locate any of the attractions in chinatown near you. they are|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & you can choose new american or thai.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & do you prefer new american or thai food?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & what type of food do you want, new american or thai?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there is no chinese restaurant in chinatown. the price range is moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is no restaurant near chinatown serving chinese food and it is priced moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there isn't any chinese in chinatown at moderate prices.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & assab eritrean restaurant is a cheap restaurant at 2845 gear|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, assab eritrean restaurant is a cheap restaurant located|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & assab eritrean restaurant is a cheap restaurant located at 2845|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there is a french restaurant called restaurant ducroix for lunch. if you want|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is a restaurant ducroix which allows no kids for lunch and the food is french|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i found a french restaurant called ducroix, it's not allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & restaurant ducroix has a child-friendly policy and is located at 690 s|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & restaurant ducroix, they do not allow kids. the address is 690 |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there's a restaurant ducroix for kids. its address is 690|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the price range for marnee thai and thanh long is moderate and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marnee thai and thanh long are moderate priced and served for dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is a moderate priced restaurant in outer sunset called marnee thai|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & thanh long, 94122. 4101 judah street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thanh long is a great name located at 4101 judah street and the|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thanh long is a local name located at 4101 judah street in |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 4 restaurants which you might like. they allow children and are expensive.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 4 restaurants that have a price range of $ 4 and it's an|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i've found 4 restaurants that would suit your needs. you can have kids|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & burma superstar is located in inner richmond and costs between 15 and 22 euro|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & burma superstar is a restaurant in inner richmond, the price range is between|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & burma superstar is located at inner richmond and it has a price between 15 and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no, it's not located near inner richmond and serves lunch. children|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, there is no good restaurant near inner richmond. this restaurant serves lunch and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, you can not dine at a good restaurant near inner richmond and the|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & franciscan crab restaurant is an expensive restaurant. the kids are allowed and the good|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant is an expensive restaurant and they allow children. they do have|endoftext|!!!!!!!!!!!!!!!!!!!!!!!",
+        " & franciscan crab restaurant is expensive. kids are allowed. the restaurant has good|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & zadin is a moderate price range, and it is gluten free|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & zadin is a moderate, gluten free restaurant|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & zadin is a moderate priced gluten free restaurant.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the big 4 restaurant is located in 94108.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the big 4ztlichare located in 94108|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the big 4 restaurant is in the 94108 area.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i have found one place that does not allow kids in the embarcadero area|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there's no location which matches your criteria. it is an expensive area,|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, there aren't any kids allowed in embarcadero |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & ok, you can call red door cafe at 4152828283. it|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & red door cafe is a cheap Fehlman. their phone number is 41528282|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it is called red door cafe and is cheap and the phone number is 4152828283|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found 2 restaurants. there is a no child care area in golden gate park|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 2 restaurants in golden gate park and it is not a kids-only restaurant |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 2 restaurants and they do not allow kids and a nice restaurant is in golden gate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & fresca serves peruvian food in pacific heights and children are not|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fresca is a peruvian restaurant in pacific heights with no|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i was able to contact fresca, which serves peruvian food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & sure, comfort food?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & okay, you 'll need a comfort food sandwich|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & can you confirm that the food is comfort food?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & chow is a nice comfort food restaurant. it is near castro.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chow has a good dinner and comfort food and is near castro|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the food is comfort food and it has a nice dinner. it is located near ca|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & how about a lunch or dinner?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & okay. how about lunch or dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & can you choose lunch or dinner?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & do you prefer an expensive or cheap priceender?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & how about expensive or cheap?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & how expensive or cheap?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found 4. a japanese restaurant. it costs in|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i found 4. there is japanese restaurant. the price range|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i found 4 restaurants. the food is japanese and expensive|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the area hakkasan is a cantonese restaurant in the financial district|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & hakkasan is in the financial district and has cantonese food.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & hakkasan is a cantonese restaurant located in financial district.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & thep phanom thai restaurant is nice for dinner and near lower haight|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thep phanom thai restaurant has a good dinner option near lower ha|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thep phanom thai restaurant is a nice restaurant in lower haight|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & benu is a very expensive asian restaurant in the financial district|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & benu is a nice restaurant in a very expensive price range and is located in|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & benu is an expensive restaurant located near the financial district that serves asian food|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no problem. original us restaurant is located near russian hill. kids are allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & original us restaurant is near russian hill and allows kids and its moderate. food is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you can try original us restaurant in russian hill for children which has moderate prices.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & beijing restaurant is located near mission terrace|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & beijing restaurant is near mission terrace|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & beijing restaurant is near mission terrace|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & marina cow hollow or japantown|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marina cow hollow or japantown are both good options|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marina cow hollow or japantown|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & dosa on valencia is located near mission and their phone number is 4156|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & dosa on valencia is in the near mission area, phone number is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & dosa on valencia is near mission. their phone number is 4156|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & aperto restaurant and pera is in potrero hill and has a|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & aperto restaurant and pera is a moderate priced restaurant near potrero|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & yes, kids can, and there's a moderate price range at |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 2 restaurant that you may like. pizza is available, and children are allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i've found 2 restaurants that serve pizza and are okay for kids.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sure, i've found 2 restaurants that serve pizza and allow kids.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & sure, there are 2 good restaurant, pizza place and kids are permitted, and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & okay, there are 2 good restaurants which serve pizza food and kids are allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i have 2 restaurants you may like. pizza is a good option and children are|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & it looks like they will probably not need the reservations.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sorry i cann't find any movies for you.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no problem, the appointment is good.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found a good lunch restaurant that offers cheap pizza, kids can eat there|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it looks like the good food they have at the cheapest prices is pizza|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you are allowed to bring kids and you can enjoy pizza on your lunch time at source.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found 4 restaurants. there's a good restaurant that doesn '|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i can recommend 4 restaurant, which is good to us, because there is no|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i found 4, they are good restaurants and they allow children, and their price|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & jasmine garden is an aaacable place. they have an expensive|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & jasmine garden has a very cheap price range and allows kids. it is also|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & jasmine garden has an excellent reputation in vietnamese food. the price|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no. i can't recommend thai food near inner richmond |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there's no food option in inner richmond that is thai.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & thai foodn't there, nor, children's|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & marlowe has a good dinner area in mission bay.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marlowe is a good dinner restaurant located in mission bay.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & marlowe is a goodrestaurant in mission bay and it serves dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & fresca is located in hayes valley or pacific heights and will cost you|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fresca is a good hotel in hayes valley or pacific heights and|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & fresca in hayes valley or pacific heights with a price between 15|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & no. this is a very expensive restaurant and good for breakfast|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & unfortunately, they do not serve breakfast food and they are expensive.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & it is expensive and breakfast|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & they do have betelnut in cow hollow and there are no children allowed, which are|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & betelnut is located in cow hollow, and children are not allowed there and the price|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there is an expensive apartment at betelnut in cow hollow where no kids are allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & betelnut near marina cow hollow in cow hollow or hayes valley phone 41592988|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & betelnut is a good local town near marina cow hollow in cow hollow or hayes|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & betelnut is located in cow hollow or hayes valley. its phone number is 4|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found a moderate priced house in bernal heights called la cic|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & la ciccia is located in bernal heights and there are no kids allowed|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & la ciccia is a good place for kids as long as the price range is moderate|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & chow is an address 215 church street, for 22 euro.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & the apartment i have is chow at 215 church street and the price is 22|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & chow has a 22 euro ticket and the address is 215 church street|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & are you in mission bay or victoria mews area?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you would like to view mission bay or victoria mews|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & is the city in mission bay or victoria mews?|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 2 cheap restaurants and they are in mission dolores.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & you have 2 restaurants in mission dolores. they are cheap.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 2 types of restaurants, and they are cheap and the area mission dolore|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there is a restaurant in lower pacific heights, but not brunch|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & sorry, but i was not able to find a good restaurant in lower |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & no, there is a brunch restaurant in lower pacific heights.|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & i found the restaurant at campton place restaurant located in downtown, has indian|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & campton place restaurant is in downtown and serves indian food and a good dinner|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & yes. i have found a great restaurant called campton place restaurant located in|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & the city view restaurant at 662 commercial street serves dim sum. their contact number is 4|endoftext|!!!!!!!!!!!!!!!!!!!!!!!",
+        " & city view restaurant is at 662 commercial street and serves dim sum. the phone number is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & city view restaurant is a restaurant located at 662 commercial street offering dim sum. the|endoftext|!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & skool is in hayes valley and prices are expensive. it serves japan|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & skool is an affordable restaurant in hayes valley and is very expensive food and ja|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & skool is a japanese restaurant in hayes valley with |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ],
+    [
+        " & there are 51 good restaurants. they are in the expensive price range. the restaurant is|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & i've found 51 places that match your criteria. one of them is |endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        " & there are 51 restaurants, one is a good dinner and it is expensive|endoftext|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    ]
+]
